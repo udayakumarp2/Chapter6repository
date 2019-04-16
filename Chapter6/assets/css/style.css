@@ -1,0 +1,40 @@
+/* external styles for Chapter 3 */
+body {
+  background: yellow;
+  color: black;
+}
+table,
+td {
+  border: 1px solid #333;
+}
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+#copyright {
+  border-style: solid;
+  text-align: center;
+}
+#pranavsFace {
+  width: 180px;
+  height: 200px;
+}
+#omelette {
+  width: 180px;
+  height: 200px;
+}
+.border {
+  border: thick double green;
+}
+.opacity {
+  opacity: 0.5;
+  background-color: orange;
+}
+
+#contentOne {
+  border: thick double red;
+}
+#contentTwo {
+  border: thick double purple;
+}
